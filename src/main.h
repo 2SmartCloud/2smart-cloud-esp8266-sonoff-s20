@@ -18,6 +18,6 @@ const char* product_id = "1635353207794379";  // production id
 // -------------------------------------------------------MQTT variables
 
 const char* device_name = "2Smart Sonoff S20";
-const char* device_version = "1";
+const char* device_version = "3";
 
 void HandleMessage(char* topic, byte* payload, unsigned int length);

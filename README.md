@@ -64,9 +64,9 @@ CLI guide https://docs.platformio.org/en/latest/core/userguide/index.html
 
 
 ## Factory reset
-To reset connected device press the power button for 10 seconds until led starts blynking. 
+To reset connected device press the power button for 10 seconds until led starts blinking.
 
 ## Custom firmware
 
-Fill free to fork this firmware and create you own products with custom functionality.
+Feel free to fork this firmware and create you own products with custom functionality.
 Detailed instruction you could find in our [blog](https://2smart.com/blog/tpost/ebvsii6y21-how-to-write-firmware-for-an-iot-device).
